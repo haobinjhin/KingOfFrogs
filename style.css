@@ -1,3 +1,9 @@
-body {
-    background-color: red;
+html {
+
+    body {
+        background-color: red;
+        padding: 0px 650px;
+    }
+
+
 }
